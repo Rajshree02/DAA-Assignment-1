@@ -110,7 +110,7 @@ The seven selected are: Mumbai, jaipur, Bengaluru, Kolkata, Chennai, Varanasi, L
 ### Output:
 <img width="494" alt="image" src="https://user-images.githubusercontent.com/96655436/188668975-4318e03e-bd57-40ae-871c-840e5319d589.png">
 
-### Observstions:
+### Observations:
 <ol>
   <li>With this algo, the very first nodes are selected from the graph</li>
   <li>Then next minimum distant cities from the selected nodes are spanned next</li>
